@@ -1,6 +1,6 @@
 How to run this app:
 1) To run, open 2 terminals.
-2) In terminal 1, run "cd client" and then run "npm run dev"
+2) In terminal 1, run "cd client", then "npm install", then "npm run dev".
 3) In terminal 2, run "python app.py".
 
 How to create this kind of Svelte+Flask template
